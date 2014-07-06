@@ -20,25 +20,20 @@
 	media="screen" />
 <link rel="stylesheet" href="css/style.css" type="text/css"
 	media="screen" />
-	<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
-	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
-	<script type="text/javascript">
-    $(window).load(function() {
-        $('#slider').nivoSlider();
-    });
-    </script>
+<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
 </head>
 <body>
-	
 	<div id="webcontainer">
 		<div id="site">
 			<div id="header">
-			<h1>Dhaneshwar School and College</h1>
-				<a href="<c:url value="/index.jsp"/>" title="homepage">
-					<!-- <div id="logo"></div> -->
-					
+				<h1>Dhaneshwar School and College</h1>
+				<a href="<c:url value="/index.jsp"/>" title="homepage"> <!-- <div id="logo"></div> -->
+
 				</a>
-<ul id="menu">
+				<ul id="menu">
 					<li><a href="#">Career</a>
 						<ul>
 							<li><a href="#">Fresher</a></li>
@@ -68,21 +63,21 @@
 
 			</div>
 		</div>
-	<div id="wrapper">
-		<div class="slider-wrapper theme-default">
-			<div id="slider" class="nivoSlider">
-				<img src="images/toystory.jpg" data-thumb="images/toystory.jpg"
-					alt="" /> <img src="images/up.jpg" data-thumb="images/up.jpg"
-					alt="" /> <img src="images/walle.jpg"
-					data-thumb="images/walle.jpg" alt="" data-transition="slideInLeft" />
-				<img src="images/nemo.jpg" data-thumb="images/nemo.jpg" alt="" />
+		<div id="wrapper">
+			<div class="slider-wrapper theme-default">
+				<div id="slider" class="nivoSlider">
+					<img src="images/toystory.jpg" data-thumb="images/toystory.jpg"
+						alt="" /> <img src="images/up.jpg" data-thumb="images/up.jpg"
+						alt="" /> <img src="images/walle.jpg"
+						data-thumb="images/walle.jpg" alt="" data-transition="slideInLeft" />
+					<img src="images/nemo.jpg" data-thumb="images/nemo.jpg" alt="" />
+				</div>
+			</div>
+			<div id="footer">
+
+				<p>We always need a footer.</p>
+
 			</div>
 		</div>
-<div id="footer">
-			
-				<p>We always need a footer.</p>
-			
-		</div>
-	</div>
 </body>
 </html>
