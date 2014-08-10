@@ -19,7 +19,7 @@
 	<div class="header">
 	<mytag:header></mytag:header>
 		<div class="logo">
-		  	 <a href="${context}"><img src="${context}/images/logo.png"> </a>
+		  	 <a href="${context}"><img src="${context}/images/DSS_LOGO.jpg" />"> </a>
 		 </div>
 	<div class="header-right">
 	 	 <ul class="nav">
@@ -40,7 +40,7 @@
  	<h2>About Us</h2>
  	<div class="text">
  		<div class="txt_img1">
- 			<a href="${context}/pages/details.jsp"><img src="${context}images/pic2.jpg"  alt="" /></a> 
+ 			<a href="${context}/pages/details.jsp"><img src="${context}/images/chairman.JPG"  alt="" /></a> 
  		</div>
 		<div class="txt_p">
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -90,11 +90,13 @@
 <div class="wrap">
 <div class="footer">
 		<div class="f_logo">
-			<a href=""><img src="${context}/images/logo.png" alt=""></a>
+			<a href=""><img src="images/DSS_LOGO.jpg" alt=""></a>
 		<div class="copy">
-			<p class="w3-link">© All Rights Reserved | Design by&nbsp; <a href=""> Aslam and razak</a></p>
+			<p class="w3-link">© All Rights Reserved : <a href="<c:url value="/" />" style="width: 424px;
+font-size: 1.2em;">Daneshwari Shikshana Sansthe</a></p>
  		</div>
  		</div>
+ 		 		
 		<div class="f_grid">
 		<div class="social">
 				<ul class="follow_icon">
@@ -108,15 +110,16 @@
 		</div>
 		<div class="f_grid1">
 			<div class="f_icon">
-				<img src="${context}/images/f_icon.png" alt="" />
+				<img src="images/f_icon.png" alt="" />
 			</div>
 			<div class="f_address">
-				<p>500 Lorem Ipsum Dolor Sit,</p>
-				<p>22-56-323 Lorem Ipsum Dolor Sit Sit Amet,</p>
-				<p>Fax: (000) 000 00 00 0</p>
+				<p>Excellent Public School And C.M.Panchakatimath PU College,</p>
+				<p>Bagalkot road,</p>
+				<p> Lokapur-587122</p>
 				<p>Email: <span>info@mycompany.com</span></p>
 		  </div>
 		</div>
+		<a href="<c:url value="/" />" style="float:right;" >Design by  RAS team </a>
 		<div class="clear"></div>
 </div>
 </div>

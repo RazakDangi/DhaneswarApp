@@ -1,8 +1,6 @@
 DhaneswarApp
 ============
 
-School website with i18n support for kannada and english
+first test project in github
 
-spring mvc ,maven based dynamic web application
-
-
+maven based dynamic web project Hello Students

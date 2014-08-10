@@ -16,7 +16,7 @@
 <div class="wrap">
 	<div class="header">
 		<div class="logo">
-		  	 <a href="${context}"><img src="${context}/images/logo.png"> </a>
+		  	 <a href="${context}"><img src="${context}/images/DSS_LOGO.jpg"> </a>
 		 </div>
 	<div class="header-right">
 	 	 <ul class="nav">
@@ -53,33 +53,36 @@
 <div class="wrap">
 <div class="footer">
 		<div class="f_logo">
-			<a href=""><img src="images/logo.png" alt=""></a>
+			<a href=""><img src="${context}/images/DSS_LOGO.jpg" alt=""></a>
 		<div class="copy">
-			<p class="w3-link">© All Rights Reserved | Design by&nbsp; <a href=""> Aslam and razak</a></p>
+			<p class="w3-link">© All Rights Reserved : <a href="<c:url value="/" />" style="width: 424px;
+font-size: 1.2em;">Daneshwari Shikshana Sansthe</a></p>
  		</div>
  		</div>
+ 		 		
 		<div class="f_grid">
 		<div class="social">
 				<ul class="follow_icon">
 						<li><a href="#" style="opacity: 1;">Get Updates Via</a></li>
-					<li><a href="#" style="opacity: 1;"><img src="images/fb.png" alt=""></a></li>
-					<li><a href="#" style="opacity: 1;"><img src="images/g+.png" alt=""></a></li>
-					<li><a href="#" style="opacity: 1;"><img src="images/tw.png" alt=""></a></li>
-					<li><a href="#" style="opacity: 1;"><img src="images/rss.png" alt=""></a></li>
+					<li><a href="#" style="opacity: 1;"><img src="${context}/images/fb.png" alt=""></a></li>
+					<li><a href="#" style="opacity: 1;"><img src="${context}/images/g+.png" alt=""></a></li>
+					<li><a href="#" style="opacity: 1;"><img src="${context}/images/tw.png" alt=""></a></li>
+					<li><a href="#" style="opacity: 1;"><img src="${context}/images/rss.png" alt=""></a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="f_grid1">
 			<div class="f_icon">
-				<img src="images/f_icon.png" alt="" />
+				<img src="${context}/images/f_icon.png" alt="" />
 			</div>
 			<div class="f_address">
-				<p>500 Lorem Ipsum Dolor Sit,</p>
-				<p>22-56-323 Lorem Ipsum Dolor Sit Sit Amet,</p>
-				<p>Fax: (000) 000 00 00 0</p>
+				<p>Excellent Public School And C.M.Panchakatimath PU College,</p>
+				<p>Bagalkot road,</p>
+				<p> Lokapur-587122</p>
 				<p>Email: <span>info@mycompany.com</span></p>
 		  </div>
 		</div>
+		<a href="<c:url value="/" />" style="float:right;" >Design by  RAS team </a>
 		<div class="clear"></div>
 </div>
 </div>
