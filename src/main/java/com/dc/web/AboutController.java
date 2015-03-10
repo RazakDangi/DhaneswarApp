@@ -31,5 +31,22 @@ public class AboutController {
 		log.debug("Came to About Controller and local is"+reHttpServletRequest.getLocale());
 		return "contact";
 	}
-
+	
+	@RequestMapping(value = "/pucollege",method = RequestMethod.GET)
+	public String handleRegisterRequest4(Locale locale,ModelMap model,HttpServletRequest reHttpServletRequest){
+		log.debug("Came to About Controller and local is"+reHttpServletRequest.getLocale());
+		return "pucollege";
+	}
+	
+	@RequestMapping(value = "/galary",method = RequestMethod.GET)
+	public String handleRegisterRequest5(Locale locale,ModelMap model,HttpServletRequest reHttpServletRequest){
+		log.debug("Came to About Controller and local is"+reHttpServletRequest.getLocale());
+		return "galary";
+	}
+	
+	@RequestMapping(value = "/facility",method = RequestMethod.GET)
+	public String handleRegisterRequest6(Locale locale,ModelMap model,HttpServletRequest reHttpServletRequest){
+		log.debug("Came to About Controller and local is"+reHttpServletRequest.getLocale());
+		return "facility";
+	}
 }
