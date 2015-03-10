@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	indexPageName="galary.html"
+
+>
+  <image imageURL="images/[000004].jpg"
+	thumbURL="thumbs/[000004].jpg"
+	linkURL="images/[000004].jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\[000004].jpg">
+    <title><![CDATA[[000004]]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/[000005].jpg"
+	thumbURL="thumbs/[000005].jpg"
+	linkURL="images/[000005].jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\[000005].jpg">
+    <title><![CDATA[[000005]]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/[000006].jpg"
+	thumbURL="thumbs/[000006].jpg"
+	linkURL="images/[000006].jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\[000006].jpg">
+    <title><![CDATA[[000006]]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\1.jpg">
+    <title><![CDATA[1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\2.jpg">
+    <title><![CDATA[2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbs/4.jpg"
+	linkURL="images/4.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\4.jpg">
+    <title><![CDATA[4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\5.jpg">
+    <title><![CDATA[5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbs/6.jpg"
+	linkURL="images/6.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\6.jpg">
+    <title><![CDATA[6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.jpg"
+	thumbURL="thumbs/7.jpg"
+	linkURL="images/7.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\7.jpg">
+    <title><![CDATA[7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.jpg"
+	thumbURL="thumbs/9.jpg"
+	linkURL="images/9.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\9.jpg">
+    <title><![CDATA[9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.jpg"
+	thumbURL="thumbs/11.jpg"
+	linkURL="images/11.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\11.jpg">
+    <title><![CDATA[11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12.jpg"
+	thumbURL="thumbs/12.jpg"
+	linkURL="images/12.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\12.jpg">
+    <title><![CDATA[12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15.jpg"
+	thumbURL="thumbs/15.jpg"
+	linkURL="images/15.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\15.JPG">
+    <title><![CDATA[15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18 (2).jpg"
+	thumbURL="thumbs/18 (2).jpg"
+	linkURL="images/18 (2).jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\18 (2).jpg">
+    <title><![CDATA[18 (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18 (3).jpg"
+	thumbURL="thumbs/18 (3).jpg"
+	linkURL="images/18 (3).jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\18 (3).jpg">
+    <title><![CDATA[18 (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18.jpg"
+	thumbURL="thumbs/18.jpg"
+	linkURL="images/18.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\18.jpg">
+    <title><![CDATA[18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20.jpg"
+	thumbURL="thumbs/20.jpg"
+	linkURL="images/20.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20.jpg">
+    <title><![CDATA[20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21 (3).jpg"
+	thumbURL="thumbs/21 (3).jpg"
+	linkURL="images/21 (3).jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\21 (3).jpg">
+    <title><![CDATA[21 (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21.jpg"
+	thumbURL="thumbs/21.jpg"
+	linkURL="images/21.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\21.jpg">
+    <title><![CDATA[21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23.jpg"
+	thumbURL="thumbs/23.jpg"
+	linkURL="images/23.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\23.JPG">
+    <title><![CDATA[23]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/30.jpg"
+	thumbURL="thumbs/30.jpg"
+	linkURL="images/30.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\30.jpg">
+    <title><![CDATA[30]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/31.jpg"
+	thumbURL="thumbs/31.jpg"
+	linkURL="images/31.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\31.jpg">
+    <title><![CDATA[31]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/32.jpg"
+	thumbURL="thumbs/32.jpg"
+	linkURL="images/32.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\32.jpg">
+    <title><![CDATA[32]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/39.jpg"
+	thumbURL="thumbs/39.jpg"
+	linkURL="images/39.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\39.JPG">
+    <title><![CDATA[39]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/40.jpg"
+	thumbURL="thumbs/40.jpg"
+	linkURL="images/40.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\40.jpg">
+    <title><![CDATA[40]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/47.jpg"
+	thumbURL="thumbs/47.jpg"
+	linkURL="images/47.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\47.JPG">
+    <title><![CDATA[47]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/56.jpg"
+	thumbURL="thumbs/56.jpg"
+	linkURL="images/56.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\56.JPG">
+    <title><![CDATA[56]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/64.jpg"
+	thumbURL="thumbs/64.jpg"
+	linkURL="images/64.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\64.jpg">
+    <title><![CDATA[64]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/69.jpg"
+	thumbURL="thumbs/69.jpg"
+	linkURL="images/69.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\69.JPG">
+    <title><![CDATA[69]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/100.jpg"
+	thumbURL="thumbs/100.jpg"
+	linkURL="images/100.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\100.jpg">
+    <title><![CDATA[100]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/101.jpg"
+	thumbURL="thumbs/101.jpg"
+	linkURL="images/101.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\101.JPG">
+    <title><![CDATA[101]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/133.jpg"
+	thumbURL="thumbs/133.jpg"
+	linkURL="images/133.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\133.JPG">
+    <title><![CDATA[133]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/161.jpg"
+	thumbURL="thumbs/161.jpg"
+	linkURL="images/161.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\161.JPG">
+    <title><![CDATA[161]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2013-11-13 12.34.06.jpg"
+	thumbURL="thumbs/2013-11-13 12.34.06.jpg"
+	linkURL="images/2013-11-13 12.34.06.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\2013-11-13 12.34.06.jpg">
+    <title><![CDATA[2013-11-13 12.34.06]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2013-11-14 11.35.06.jpg"
+	thumbURL="thumbs/2013-11-14 11.35.06.jpg"
+	linkURL="images/2013-11-14 11.35.06.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\2013-11-14 11.35.06.jpg">
+    <title><![CDATA[2013-11-14 11.35.06]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20130718_170330.jpg"
+	thumbURL="thumbs/20130718_170330.jpg"
+	linkURL="images/20130718_170330.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20130718_170330.jpg">
+    <title><![CDATA[20130718_170330]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20130815_084749.jpg"
+	thumbURL="thumbs/20130815_084749.jpg"
+	linkURL="images/20130815_084749.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20130815_084749.jpg">
+    <title><![CDATA[20130815_084749]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20130828_155926.jpg"
+	thumbURL="thumbs/20130828_155926.jpg"
+	linkURL="images/20130828_155926.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20130828_155926.jpg">
+    <title><![CDATA[20130828_155926]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20130828_160045.jpg"
+	thumbURL="thumbs/20130828_160045.jpg"
+	linkURL="images/20130828_160045.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20130828_160045.jpg">
+    <title><![CDATA[20130828_160045]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20130828_160053.jpg"
+	thumbURL="thumbs/20130828_160053.jpg"
+	linkURL="images/20130828_160053.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20130828_160053.jpg">
+    <title><![CDATA[20130828_160053]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20130829_120352-1.jpg"
+	thumbURL="thumbs/20130829_120352-1.jpg"
+	linkURL="images/20130829_120352-1.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20130829_120352-1.jpg">
+    <title><![CDATA[20130829_120352-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20130829_151323.jpg"
+	thumbURL="thumbs/20130829_151323.jpg"
+	linkURL="images/20130829_151323.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20130829_151323.jpg">
+    <title><![CDATA[20130829_151323]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20131114_102100.jpg"
+	thumbURL="thumbs/20131114_102100.jpg"
+	linkURL="images/20131114_102100.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20131114_102100.jpg">
+    <title><![CDATA[20131114_102100]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20140215_093105.jpg"
+	thumbURL="thumbs/20140215_093105.jpg"
+	linkURL="images/20140215_093105.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20140215_093105.jpg">
+    <title><![CDATA[20140215_093105]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20140215_094305.jpg"
+	thumbURL="thumbs/20140215_094305.jpg"
+	linkURL="images/20140215_094305.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20140215_094305.jpg">
+    <title><![CDATA[20140215_094305]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20140315_120005.jpg"
+	thumbURL="thumbs/20140315_120005.jpg"
+	linkURL="images/20140315_120005.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20140315_120005.jpg">
+    <title><![CDATA[20140315_120005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20140315_131449.jpg"
+	thumbURL="thumbs/20140315_131449.jpg"
+	linkURL="images/20140315_131449.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20140315_131449.jpg">
+    <title><![CDATA[20140315_131449]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20140315_160526.jpg"
+	thumbURL="thumbs/20140315_160526.jpg"
+	linkURL="images/20140315_160526.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20140315_160526.jpg">
+    <title><![CDATA[20140315_160526]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20140315_160639.jpg"
+	thumbURL="thumbs/20140315_160639.jpg"
+	linkURL="images/20140315_160639.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20140315_160639.jpg">
+    <title><![CDATA[20140315_160639]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20140527_101719.jpg"
+	thumbURL="thumbs/20140527_101719.jpg"
+	linkURL="images/20140527_101719.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Workspace\Daneswar\src\main\webapp\Photos\20140527_101719.jpg">
+    <title><![CDATA[20140527_101719]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

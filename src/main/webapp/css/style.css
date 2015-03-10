@@ -38,7 +38,8 @@ body {
 /*header-bg */
 .h-bg{
 	border-bottom:5px solid #32251B;
-	background-color: darkred;
+	background-color: brown
+
 }
 .header{
 	display: block;
@@ -65,6 +66,11 @@ font-size: 31px;
 .header-right{
 	float:left;
 	padding-top: 20px;
+
+}
+.design{
+float:left;
+
 }
 
 
@@ -78,8 +84,11 @@ ul {
 	color:#fff;
 	background: url('../images/nav_active.png');
 }
+
 .main-menu li {
-	line-height:1.4em; 
+
+	line-height:0.8em; 
+
 	display: block; 
 	float: left; 
 	clear: none;
@@ -130,9 +139,32 @@ ul {
 /*slider*/
 .slider_bg{
 	background-color: antiquewhite;
+
 }
+.slider_bg_facility{
+	background-color: antiquewhite;
+	padding-left:20%; 
+}
+
+.facility_title{
+	background-color: antiquewhite;
+	padding-left:50%; 
+}
+
+#nav {
+    width: 20%;
+    float: left;
+    background-color: antiquewhite;
+    padding-left:10%; 
+    padding-top:5%
+ 
+}
+
 .slider{
 	padding: 5% 0%;
+}
+.sliderFacility{
+	padding: 1%;
 }
 /*content*/
 .cont_bg{
@@ -375,7 +407,9 @@ ul {
 }
 /*footer*/
 .f_bg{
-	background-color: darkred;
+
+	background-color: brown;
+
 	padding: 3% 0;
 }
 .f_grid{
