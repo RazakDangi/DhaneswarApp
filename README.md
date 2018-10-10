@@ -1,6 +1,6 @@
 DhaneswarApp
 ============
 
-first test project in github
+my school website in github
 
-maven based dynamic web project Hello Students
+maven based  web project 
